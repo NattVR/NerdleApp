@@ -2,6 +2,9 @@ import random
 
 class Nerdle:
     contador: int = 0
+    contador_partidas_ganadas: int = 0
+    contador_partidas_perdidas: int = 0
+
 
     def contador_de_juegos(self):
         pass
